@@ -1,0 +1,82 @@
+.container, body{
+    background-color: rgb(234, 244, 250);
+}
+.Top_left{
+    color: rgb(97, 199, 240);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+nav{
+    display: flex;
+    text-decoration: none;
+    float: right;
+    color: rgb(97, 199, 240);
+    margin-top: -20px;
+
+}
+ul{
+    list-style-type: none;
+}
+
+  li{
+    list-style: none;
+    margin-right: 20px;
+  }
+  .btn_back{
+    background-color: transparent;
+    color: rgb(41, 163, 197);
+    border: 2px solid rgb(41, 163, 197);
+    text-align: center;
+   width: 120px;
+   height: 30px;
+   
+  }
+  .part1{
+    background-color: rgb(201, 235, 245);
+    height: 390px;
+    width: 450px;
+    text-align: center;
+    padding-top: 70px;
+  }
+  .part2 tetedefemme{
+    background-color: aqua;
+    height: 390px;
+    width: 900px;
+    float: right;
+
+  }
+  .btn_row2{
+    background-color: transparent;
+    color: rgb(75, 140, 224);
+    border: 2px solid rgb(75, 140, 224);
+    text-align: center;
+   width: 140px;
+   height: 40px; 
+   font-size: 18px;
+  }
+  
+
+
+
+
+
+
+
+/* .menu_header{
+    justify-content: space-between;
+    display: flex;
+    text-align: right;
+    align-content: space-between;
+    /* flex-wrap: wrap; */
+    /* float: right; */
+    /* justify-items: end; *
+    margin-top: 20px;
+    flex-direction: row;
+  }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      margin-right: 50px;
+    } */
