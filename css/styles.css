@@ -1,29 +1,29 @@
 .container, body{
     background-color: rgb(234, 244, 250);
 }
-.Top_left{
+/* .Top_left{
     color: rgb(97, 199, 240);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    
-}
-nav{
+} */
+/* nav{
     display: flex;
     text-decoration: none;
     float: right;
     color: rgb(97, 199, 240);
     margin-top: -20px;
-    }
+    } */
 
 
 ul{
     list-style-type: none;
 }
 
-  li{
-    list-style: none;
-    margin-right: 20px;
-  }
-  .btn_back{
+li{
+  list-style: none;
+  margin-right: 20px;
+}
+.btn_back{
     background-color: transparent;
     color: rgb(41, 163, 197);
     border: 2px solid rgb(41, 163, 197);
